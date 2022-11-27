@@ -1,0 +1,40 @@
+.container-fluid {
+    display: flex;
+   
+   
+}
+
+.navbar-brand {
+    background-color: #fff14b;
+    background-size: cover;
+    height: 2rem;
+    width: 2rem;
+    border: 3px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.searchBox, .search, .dropDown {
+    border: .25rem solid black;
+}
+
+
+.storeName {
+    margin-left: 3rem;
+    max-height: 2rem;
+    font-family: 'Lobster', cursive;
+    color: pink;
+    text-shadow: 0.15rem 0.15rem black;
+}
+
+.dropDown {
+    background-color:#fff14b ;
+    color: black;
+    font-weight: 800;
+}
+
+.search {
+    min-height: 2.75rem;
+}
+
